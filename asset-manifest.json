@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Top_10_Netflix/static/css/main.db81728f.css",
-    "main.js": "/Top_10_Netflix/static/js/main.01b342c6.js",
-    "index.html": "/Top_10_Netflix/index.html",
-    "main.db81728f.css.map": "/Top_10_Netflix/static/css/main.db81728f.css.map",
-    "main.01b342c6.js.map": "/Top_10_Netflix/static/js/main.01b342c6.js.map"
+    "main.css": "/Netflix_Top_10/static/css/main.db81728f.css",
+    "main.js": "/Netflix_Top_10/static/js/main.01b342c6.js",
+    "index.html": "/Netflix_Top_10/index.html",
+    "main.db81728f.css.map": "/Netflix_Top_10/static/css/main.db81728f.css.map",
+    "main.01b342c6.js.map": "/Netflix_Top_10/static/js/main.01b342c6.js.map"
   },
   "entrypoints": [
     "static/css/main.db81728f.css",
